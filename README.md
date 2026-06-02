@@ -4,7 +4,7 @@ Tech Lead con +5 años construyendo plataformas web escalables. Especialista en 
 
 - 📍 Tecámac, Estado de México
 - 🗣️ Español (nativo) · English **B2** (fluido/profesional)
-- 🔗 LinkedIn: https://linkedin.com/in/juan-alva-bustamante
+- 🔗 LinkedIn: https://www.linkedin.com/in/juan-alva-bustamante-7808551b7/
 - ✉️ Contacto: juan.alva.bustamante@gmail.com
 
 ## Focus
@@ -13,11 +13,13 @@ Tech Lead con +5 años construyendo plataformas web escalables. Especialista en 
 - AI Engineering (RAG, agentes, prompt engineering, evaluación)
 - Developer Productivity (CI/CD, estándares, automatización)
 
+<!-- Esto es un comentario y no aparecerá en el perfil
 ## Pinned work (recommended)
 > Repos destacados para ver arquitectura, calidad y demos.
 - [Project 1 — (RAG/Agents demo)](LINK)
 - [Project 2 — (Design system / Storybook)](LINK)
 - [Project 3 — (Automation / DevEx)](LINK)
+ -->
 
 ## Tech Snapshot
 **Frontend:** React, Next.js, TypeScript, Tailwind, MUI, SASS  
